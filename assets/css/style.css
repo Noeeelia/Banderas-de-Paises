@@ -55,15 +55,16 @@ p {
 
 @media screen and (max-width: 600px) {
     body {
+        margin-top: 80px;
         width: 100%;
-        background: url(/assets/img/solar-system-planet-collage.jpg);
+        background: url(/assets/img/3d-rendering-planet-earth\ copy.jpg);
         background-size: cover;
         background-repeat: no-repeat;
     }
 
     .container {
         width: 80%;
-        margin-bottom: 30px;
+        margin: 30px;
     }
     #pais_name {
         font-size: 30px;
